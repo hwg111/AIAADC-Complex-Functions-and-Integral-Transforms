@@ -1,4 +1,22 @@
-# AIAADC-Complex-Functions-and-Integral-Transforms
-复变函数与积分变换
+<div align="center">
 
-点击[这里](https://github.com/AIAADC/Resources-for-sophomore-in-AIA)，返回大二资源库。
+# 🌀 复变函数与积分变换
+
+本仓为 AIAADC 大二课程资料仓，主要整理复变函数与积分变换课件、复习资料和真题。  
+年级总入口见：[AIA 大二课程资源总仓](https://github.com/AIAADC/Resources-for-sophomore-in-AIA)
+
+</div>
+
+---
+
+## 资料内容
+
+- 复变函数课件：复数、解析函数、复积分等
+- 积分变换资料：傅里叶变换、拉普拉斯变换等
+- 真题资料：如 `2023年复变函数与积分变换试题（A卷）.pdf`
+
+## 使用建议
+
+1. 先把解析函数、柯西积分定理、留数等核心概念理顺。
+2. 积分变换部分建议结合信号、系统或微分方程背景理解。
+3. 考前可结合年级总仓中的课程入口进行快速定位。
